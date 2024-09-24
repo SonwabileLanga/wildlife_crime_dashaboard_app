@@ -16,36 +16,29 @@ The Wildlife Crime Dashboard Application is a web-based tool designed to visuali
 - **Frontend**: HTML, CSS, JavaScript (jQuery, Plotly.js, Leaflet.js)
 - **Backend**: Flask (Python)
 - **APIs**: OpenWeatherMap API for weather data, custom API for wildlife crime data.
-- **Database**: [SQLite]
+- **Database**: [Specify database if applicable, e.g., SQLite, PostgreSQL]
 
 ## Installation
 
 To set up the Wildlife Crime Dashboard Application locally, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/SonwabileLanga/wildlife_crime_dashaboard_app.git
+```bash
+# Clone the repository
+git clone https://github.com/SonwabileLanga/wildlife_crime_dashaboard_app.git
 
-
-Navigate to the project directory:
-
-
+# Navigate to the project directory
 cd wildlife_crime_dashaboard_app
-Install the required Python packages:
 
-
+# Install the required Python packages
 pip install -r requirements.txt
-Run the Flask application:
 
-
+# Run the Flask application
 python app.py
-Open your web browser and go to http://127.0.0.1:5000 to view the application.
 
-
+# Open your web browser and go to http://127.0.0.1:5000 to view the application.
 Usage
-Upon launching the application, you will see an interactive map displaying wildlife crime incidents.
-Use the sidebar to filter data based on different criteria, such as date range or type of incident.
-The bar chart visualizes trends over time, allowing users to identify patterns in wildlife crime.
+Upon launching the application, you will see an interactive map displaying wildlife crime incidents. Use the sidebar to filter data based on different criteria, such as date range or type of incident. The bar chart visualizes trends over time, allowing users to identify patterns in wildlife crime.
+
 Contributing
 If you would like to contribute to the Wildlife Crime Dashboard Application, please follow these steps:
 
@@ -64,9 +57,12 @@ OpenWeatherMap for weather data.
 Contact
 For any inquiries or feedback, feel free to reach out to me at langasonwabile1993@gmail.com.
 
+How to Use
+Copy the above code into a new file named README.md in your project repository.
+Modify any sections as needed, especially under the Technologies Used if you have a specific database or additional technologies.
 
 ### How to Use
-1. Copy the above code into a new file named `README.md` in your project repository.
-2. Modify any sections as needed, especially under the **Technologies Used** if you have a specific database or additional technologies.
+1. Copy the complete code above into your `README.md` file in your project repository.
+2. Customize any specific sections as necessary.
 
 Let me know if you need any more adjustments!
