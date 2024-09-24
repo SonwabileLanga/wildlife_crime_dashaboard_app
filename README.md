@@ -16,7 +16,7 @@ The Wildlife Crime Dashboard Application is a web-based tool designed to visuali
 - **Frontend**: HTML, CSS, JavaScript (jQuery, Plotly.js, Leaflet.js)
 - **Backend**: Flask (Python)
 - **APIs**: OpenWeatherMap API for weather data, custom API for wildlife crime data.
-- **Database**: [Specify database if applicable, e.g., SQLite, PostgreSQL]
+- **Database**: [SQLite]
 
 ## Installation
 
@@ -29,18 +29,15 @@ To set up the Wildlife Crime Dashboard Application locally, follow these steps:
 
 Navigate to the project directory:
 
-bash
-Copy code
+
 cd wildlife_crime_dashaboard_app
 Install the required Python packages:
 
-bash
-Copy code
+
 pip install -r requirements.txt
 Run the Flask application:
 
-bash
-Copy code
+
 python app.py
 Open your web browser and go to http://127.0.0.1:5000 to view the application.
 
