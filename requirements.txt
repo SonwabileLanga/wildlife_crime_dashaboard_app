@@ -1,0 +1,5 @@
+Flask
+Flask-SQLAlchemy
+d3
+plotly
+requests

@@ -1,0 +1,41 @@
+{
+    "alerts": [
+        "Poaching incident reported in Kruger National Park.",
+        "Illegal logging detected in Mpumalanga province.",
+        "Wildlife trafficking case solved in Gauteng."
+    ],
+    "locations": [
+        {
+            "province": "Gauteng",
+            "latitude": -25.746111,
+            "longitude": 28.188056,
+            "incidents": 15
+        },
+        {
+            "province": "Mpumalanga",
+            "latitude": -25.9705,
+            "longitude": 31.1308,
+            "incidents": 10
+        },
+        {
+            "province": "KwaZulu-Natal",
+            "latitude": -29.0598,
+            "longitude": 30.3782,
+            "incidents": 20
+        },
+        {
+            "province": "Western Cape",
+            "latitude": -33.9249,
+            "longitude": 18.4241,
+            "incidents": 5
+        }
+    ],
+    "trends": [
+        {"date": "2024-01-01", "count": 5},
+        {"date": "2024-02-01", "count": 10},
+        {"date": "2024-03-01", "count": 15},
+        {"date": "2024-04-01", "count": 20},
+        {"date": "2024-05-01", "count": 25},
+        {"date": "2024-06-01", "count": 30}
+    ]
+}
